@@ -5,6 +5,7 @@ monitor commit message
 
 https://github.com/huggingface/huggingface.js
 
+https://github.com/civitai/civitai
 
 ## use api endpoint to search repo that you can use
 
