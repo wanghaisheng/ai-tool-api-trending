@@ -1,0 +1,21 @@
+{
+  "name": "github-commit-logs",
+  "version": "1.0.0",
+  "description": "Fetch and parse commit logs from a GitHub repository",
+  "main": "fetchCommitLogs.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/fetchCommitLogs.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/axios": "^0.14.0",
+    "@types/cheerio": "^0.22.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
